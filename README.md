@@ -1,6 +1,8 @@
 ## 📷  Dashboard Screenshots:
 ![OverviewAnalysis of Uber Trip Analysis](https://github.com/user-attachments/assets/376a4835-7f9a-4b46-b197-8879743f505b)
+
 ![TimeAnalysis of Uber Trip Analysis](https://github.com/user-attachments/assets/a7401d58-ed64-4a13-8fe0-6a9a596199f2)
+
 ![DetailsofUber trip Analysis](https://github.com/user-attachments/assets/30e74107-3565-432c-90f9-21446c6ccde6)
 
 
